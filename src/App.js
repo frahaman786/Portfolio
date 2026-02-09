@@ -26,7 +26,7 @@ export default function Portfolio() {
     company: ''
   });
 
-  // Portfolio Data - Replace with your actual information
+  // Portfolio Data 
   const portfolioData = {
     name: "Fazley Rahaman Molla",
     title: "Computer Science Student",
@@ -38,7 +38,7 @@ export default function Portfolio() {
     linkedin: "https://linkedin.com/in/fazley-rahaman-molla",
     resumeLink: "#",
     
-    about: "I'm a second-year Computer Science student with a passion for software development and problem-solving. I enjoy working on challenging projects and learning new technologies. My goal is to become a skilled software engineer and contribute to meaningful projects that make a difference.",
+    about: "I'm a second-year Computer Science student with a passion for problem-solving. I enjoy working on challenging projects and learning new technologies. My goal is to become a skilled software engineer and contribute to meaningful projects that make a difference.",
     
     skills: [
       { category: "Languages", items: ["Python", "Java"] },
@@ -53,7 +53,7 @@ export default function Portfolio() {
         institution: "Guru Nanak Institute of Technology",
         duration: "2024 - 2028",
         grade: "CGPA: 7.7/10",
-        coursework: ["Data Structures & Algorithms", "Object-Oriented Programming", "Database Management Systems", "Computer Networks", "Operating Systems", "Web Technologies"]
+        coursework: ["Data Structures & Algorithms", "Object-Oriented Programming"]
       },
       {
         degree: "Secondary & Higher Secondary Education",
@@ -114,7 +114,7 @@ export default function Portfolio() {
     ],
     
     achievements: [
-      "Waiting for Achievement"
+      "Coming Soon"
     ]
   };
 
